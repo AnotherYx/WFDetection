@@ -27,7 +27,7 @@
     @citing{
       title={End-to-End Multi-Tab Website Fingerprinting Attack: A Detection Perspective},
       title={End-to-End Multi-Tab Website Fingerprinting Attack: A Detection Perspective},
-      author={Mantun Chen and Yong Chen and Yongjun Wang and Peidai Xie and Shaojing Fu and Xiatian Zhu},
+      author={Mantun Chen and YongXin Chen and Yongjun Wang and Peidai Xie and Shaojing Fu and Xiatian Zhu},
       journal={ArXiv},
       year={2022},
       url={https://arxiv.org/abs/2203.06376}
